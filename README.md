@@ -1,6 +1,7 @@
 # Google_HashCode
 Google HashCode Problems and Solutions
 
+### HashCode 2020 Practice Problem:
 #### Score Achieved
 | Input Files  | Score |
 | ------------ | ----- |
